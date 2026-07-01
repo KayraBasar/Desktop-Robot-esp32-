@@ -1,4 +1,4 @@
-# 🎵 Spotify → ESP32 Bridge (Flask Server)
+# 🎵 Spotify → ESP32 Bridge (Flask Server) for desk buddy
 
 ---
 
