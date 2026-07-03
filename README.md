@@ -1,7 +1,5 @@
 # 🎵 Spotify → ESP32 Bridge (Flask Server) for desk buddy
 
----
-
 
 A lightweight, multi-threaded Python Flask bridge server designed to fetch your real-time Spotify playback details and serve them as a compact JSON endpoint for IoT devices like **ESP32**. 
 
